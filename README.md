@@ -1,5 +1,6 @@
 # TelegramEventBot
 This is a chat bot for Telegram which allows you to look through and get notifications about your events from Google Calendar, Outlook Calendar or both.
+Requires TelegramAPI imported into the project.
 
 The project requires 3 txt files (bot_config.txt, calendar_config.txt, notif_id.txt) and a .json credentials file from Google Console for the proper installation. All files must be located in the root directory of the project.
 
