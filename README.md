@@ -19,3 +19,8 @@ To get the .json file, create a project in Google Console with the Calendar API 
   Field "outlook" - insert the link to the .ics file of your Outlook Calendar.
 
 **notif_id.txt** can be left without modification. Contains IDs of chats for which notifications are enabled.
+
+Example structure of the project using IntellIJ IDEA:
+![image](https://github.com/Mugnetix/TelegramEventBot/assets/72915157/21d7fcf6-faf8-4b11-87fe-af9fbde7dece)
+
+
